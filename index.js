@@ -93,7 +93,6 @@ async function run() {
           title: taskData.title,
           description: taskData.description,
           category: taskData.category,
-          time: taskData.time,
           email: taskData.email,
           updatedTime: taskData.updated,
         
